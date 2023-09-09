@@ -7,9 +7,6 @@ hello_world = "6uN7xTWQHT31nLaeoREvmcL79bqd6KAzVvmGpn3pRCYv"
 [programs.testnet]
 hello_anchor = "6uN7xTWQHT31nLaeoREvmcL79bqd6KAzVvmGpn3pRCYv"
 
-[programs.devnet]
-hello_anchor = "6uN7xTWQHT31nLaeoREvmcL79bqd6KAzVvmGpn3pRCYv"
-
 
 [registry]
 url = "https://api.apr.dev"
